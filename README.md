@@ -1,0 +1,2 @@
+# WoWSimpleRegistration-Docker
+Dockerized WoWSimpleRegistration installation
